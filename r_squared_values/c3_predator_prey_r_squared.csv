@@ -1,0 +1,16 @@
+"","x"
+"rotifers~algae",0.00123975022946277
+"rotifers~egg_ratio",0.0476158168818633
+"rotifers~eggs",0.211630895872363
+"rotifers~dead_animals",0.00595204487147177
+"rotifers~algae+egg_ratio",0.0489622580885784
+"rotifers~algae+eggs",0.248770438140072
+"rotifers~algae+dead_animals",0.0086162087648358
+"rotifers~egg_ratio+eggs",0.682771257107366
+"rotifers~egg_ratio+dead_animals",0.0767847782241666
+"rotifers~eggs+dead_animals",0.219706449584408
+"rotifers~algae+egg_ratio+eggs",0.690399328043193
+"rotifers~algae+egg_ratio+dead_animals",0.0772380753207231
+"rotifers~algae+eggs+dead_animals",0.253857878183321
+"rotifers~egg_ratio+eggs+dead_animals",0.685279205167756
+"rotifers~algae+egg_ratio+eggs+dead_animals",0.693560521281728

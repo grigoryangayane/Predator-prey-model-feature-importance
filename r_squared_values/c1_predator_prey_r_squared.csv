@@ -1,0 +1,16 @@
+,x
+rotifers~algae,0.001159549
+rotifers~egg_ratio,0.051885826
+rotifers~eggs,0.111828453
+rotifers~dead_animals,0.028163797
+rotifers~algae+egg_ratio,0.064397995
+rotifers~algae+eggs,0.165395256
+rotifers~algae+dead_animals,0.028852441
+rotifers~egg_ratio+eggs,0.452865038
+rotifers~egg_ratio+dead_animals,0.085403719
+rotifers~eggs+dead_animals,0.131292589
+rotifers~algae+egg_ratio+eggs,0.453537747
+rotifers~algae+egg_ratio+dead_animals,0.102531932
+rotifers~algae+eggs+dead_animals,0.178878722
+rotifers~egg_ratio+eggs+dead_animals,0.474400134
+rotifers~algae+egg_ratio+eggs+dead_animals,0.474481413
